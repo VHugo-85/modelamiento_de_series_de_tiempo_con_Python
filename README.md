@@ -1,0 +1,20 @@
+## [Bibliografia](https://drive.google.com/drive/folders/1ZA1Czr_KrDX-KIYd2Xa0DrFZE6rH2Hya)
+## [Taller striamlit aplicado a forescasting](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODI1MDcxMDEzODYz/details)
+## [Sesión 1: Tendencia y estacionalidad](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQyMzA5NDUwODYw/details)
+## [Sesión 2: Tendendia y estacionalidad (Continuación)](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQyMzA5NDUwODYw/details)
+### [Recursos complementarios a la sesión 1](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQyMzEwNTAwNzI4/details)
+### [Recussos bibliiográficos complementarios](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQyMzEzMTg3NTI2/details)
+## [Sesión 3: **Holtwinters**](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQzNjAyNzI2NzQ5/details)
+## [Sesión 4: **Prophet**](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQ0MzU2NTgwNTMx/details)
+## [Sesión 5: Modelamiento estadístico de tendencia (simple)](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQ0NzkxODEzODY4/details)
+## [Sesión 6: Introducción al forecasting con variables exógenas](https://colab.research.google.com/drive/1o_wU-Lu4QJjYpIAGGltlRu1zIJ0ipllC?usp=classroom_web)
+## [Sesión 7: fast_forecast_MCO](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/NzkzOTQyNTI5OTg3/details)
+### [Evaluación optativa sobre modelos univariados](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/a/NzkzOTQzODE1NzQy/details)
+## [Sesión 8: Modelo SARIMA](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQ2NTE5OTc3MTU1/details)
+## [Sesión 9: SARIMA-Continuación](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/Nzk0MTE5MDcxMzE2/details)
+## [Sesión 10: SARIMA, SARIMAX y ARIMA ](https://colab.research.google.com/drive/1zvAIZdXCU4Nkf7-yd1EI7LSQtAmQ6Wik?usp=classroom_web)
+## [Sesión 11: Continuación y sierre del curso](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/m/ODQ4MDI1MzI5MDg0/details)
+### [Exámen final](https://classroom.google.com/c/ODQwMjExNjk1Nzk0/a/ODUwOTU2MDA2MTc5/details)
+
+
+
